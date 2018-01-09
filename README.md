@@ -1,3 +1,3 @@
 # hello-world
 first github rep.
-This could be th ebeginning of my github extravaganza!
+This could be the beginning of my github extravaganza!
